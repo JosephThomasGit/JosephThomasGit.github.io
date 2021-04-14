@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+<last-common>
+  <format name="html"/>
+</last-common>
+<module name="ancestor_chart">
+  <option name="box_Yscale" value="1.0"/>
+  <option name="center_uses" value="0"/>
+  <option name="compress_tree" value="True"/>
+  <option name="date_format" value="1"/>
+  <option name="father_disp" value="" length="3">
+    <listitem number="0" value="$n"/>
+    <listitem number="1" value="b. $b"/>
+    <listitem number="2" value="-{d. $d}"/>
+  </option>
+  <option name="fill_out" value="0"/>
+  <option name="inc_blank" value="True"/>
+  <option name="inc_border" value="False"/>
+  <option name="inc_marr" value="False"/>
+  <option name="inc_note" value="False"/>
+  <option name="inc_pagenum" value="False"/>
+  <option name="inc_siblings" value="False"/>
+  <option name="incl_private" value="True"/>
+  <option name="living_people" value="99"/>
+  <option name="marr_disp" value="m. $m"/>
+  <option name="maxgen" value="10"/>
+  <option name="mother_disp" value="" length="4">
+    <listitem number="0" value="$n"/>
+    <listitem number="1" value="b. $b"/>
+    <listitem number="2" value="m. $m"/>
+    <listitem number="3" value="-{d. $d}"/>
+  </option>
+  <option name="name_format" value="1"/>
+  <option name="note_disp" value="" length="0">
+  </option>
+  <option name="note_place" value="0"/>
+  <option name="pid" value="I0001"/>
+  <option name="replace_list" value="" length="0">
+  </option>
+  <option name="report_title" value="0"/>
+  <option name="resize_page" value="False"/>
+  <option name="scale_tree" value="0"/>
+  <option name="shadowscale" value="1.0"/>
+  <option name="trans" value="default"/>
+  <option name="years_past_death" value="0"/>
+  <style name="default"/>
+  <output name="Thomas_ancestor_chart."/>
+</module>
+<module name="navwebpage Thomas">
+  <option name="ancestortree" value="True"/>
+  <option name="archive" value="False"/>
+  <option name="birthorder" value="True"/>
+  <option name="caluri" value="/WEBCAL"/>
+  <option name="citationreferents" value="Outline"/>
+  <option name="cmsuri" value="/NAVWEB"/>
+  <option name="contactimg" value=""/>
+  <option name="contactnote" value=""/>
+  <option name="coordinates" value="False"/>
+  <option name="create_thumbs_only" value="False"/>
+  <option name="cright" value="0"/>
+  <option name="css" value="Nebraska"/>
+  <option name="date_format" value="1"/>
+  <option name="dl_descr1" value="Smith Family Tree"/>
+  <option name="dl_descr2" value="Johnson Family Tree"/>
+  <option name="down_fname1" value="/Users/rebekahthomas/"/>
+  <option name="down_fname2" value="/Users/rebekahthomas/"/>
+  <option name="encoding" value="UTF-8"/>
+  <option name="ext" value=".html"/>
+  <option name="extrapage" value=""/>
+  <option name="extrapagename" value=""/>
+  <option name="familymappages" value="False"/>
+  <option name="filter" value="0"/>
+  <option name="footernote" value=""/>
+  <option name="gallery" value="True"/>
+  <option name="googlemapkey" value=""/>
+  <option name="googleopts" value="FamilyLinks"/>
+  <option name="graphgens" value="4"/>
+  <option name="headernote" value=""/>
+  <option name="homeimg" value=""/>
+  <option name="homenote" value=""/>
+  <option name="inc_addressbook" value="False"/>
+  <option name="inc_events" value="False"/>
+  <option name="inc_families" value="True"/>
+  <option name="inc_gendex" value="False"/>
+  <option name="inc_id" value="0"/>
+  <option name="inc_places" value="False"/>
+  <option name="inc_repository" value="False"/>
+  <option name="inc_sources" value="False"/>
+  <option name="inc_stats" value="False"/>
+  <option name="incdownload" value="False"/>
+  <option name="incl_private" value="False"/>
+  <option name="introimg" value=""/>
+  <option name="intronote" value=""/>
+  <option name="linkhome" value="False"/>
+  <option name="living_people" value="99"/>
+  <option name="mapservice" value="OpenStreetMap"/>
+  <option name="maxinitialimageheight" value="600"/>
+  <option name="maxinitialimagewidth" value="800"/>
+  <option name="name_format" value="1"/>
+  <option name="navigation" value="Horizontal"/>
+  <option name="notes" value="True"/>
+  <option name="pid" value="I0000"/>
+  <option name="placemappages" value="False"/>
+  <option name="prevnext" value="False"/>
+  <option name="reference_sort" value="False"/>
+  <option name="relation" value="False"/>
+  <option name="securesite" value="True"/>
+  <option name="showbirth" value="True"/>
+  <option name="showdeath" value="False"/>
+  <option name="showhalfsiblings" value="False"/>
+  <option name="showparents" value="False"/>
+  <option name="showpartner" value="False"/>
+  <option name="target" value="/Users/rebekahthomas/Thomas_NAVWEB/252f3706a22a3dd66e1676e804312a0e3e1f030e"/>
+  <option name="title" value="Thomas Family Database"/>
+  <option name="trans" value="default"/>
+  <option name="unused" value="True"/>
+  <option name="usecal" value="False"/>
+  <option name="usecms" value="False"/>
+  <option name="years_past_death" value="0"/>
+  <format name="html"/>
+  <style name="default"/>
+</module>
+</options>
