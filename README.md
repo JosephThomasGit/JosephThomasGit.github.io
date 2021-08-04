@@ -1,4 +1,4 @@
-This private GitHub repository is a constant and sporadic work in progress, but is designed to catelog and present data, images, and text about the Thomas Family.
+This GitHub repository is a constant and sporadic work in progress, but is designed to catelog and present data, images, and text about the Thomas Family.
 
 Software used to produce this website is called GRAMPS, open-source geneology software.
 
